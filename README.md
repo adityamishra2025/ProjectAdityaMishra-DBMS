@@ -1,6 +1,6 @@
 # ProjectAdityaMishra-DBMS
 
-•	Portfolio of  a Online Food Delivery App
+•	Food Store Management System
 
 –	Tools : RDBMS (MySQL)
 –	Technologies Used:  SQL
